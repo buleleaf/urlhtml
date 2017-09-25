@@ -1,0 +1,5 @@
+user=BSC170807
+url=192.168.147.162
+password=BSC170807
+type=Oracle
+dbname=devdb

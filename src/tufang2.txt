@@ -1,0 +1,5 @@
+user=DXX
+url=192.168.147.55
+password=DXX
+type=MySql
+dbname=tufang8080

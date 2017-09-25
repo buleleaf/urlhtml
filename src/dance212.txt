@@ -1,0 +1,5 @@
+user=BSTDW170515
+url=192.168.147.162
+password=BSTDW170515
+type=Oracle
+dbname=devdb

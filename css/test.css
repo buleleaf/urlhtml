@@ -1,0 +1,23 @@
+@charset "utf-8";
+.wrap{top:10px;height:230px; background:#9C6; position:relative;}
+.A, .B, .C, .D, .E, .F{ 
+    width:180px; 
+	height:180px;
+	background:#00FF00;  position:absolute;}
+.A{ top:10px; left:10px;}
+.B{ top:10px; left:240px;}
+.C{ top:10px; left:470px;}
+.D{ top:10px; left:700px;}
+.E{ top:10px; left:930px;}
+.F{ top:10px; left:1155px;}
+.wrap1{ top:20px; position:relative;height:230px; background:#9C6;}
+.A1, .B1, .C1, .D1, .E1, .F1{ 
+    width:180px; 
+	height:180px;
+	background:#00FF00;  position:absolute;}
+.A1{ top:10px; left:10px;}
+.B1{ top:10px; left:240px;}
+.C1{ top:10px; left:470px;}
+.D1{ top:10px; left:700px;}
+.E1{ top:10px; left:930px;}
+.F1{ top:10px; left:1155px;}
