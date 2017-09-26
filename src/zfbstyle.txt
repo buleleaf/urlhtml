@@ -1,0 +1,6 @@
+user=ZFBSTYLE0701
+password=ZFBSTYLE0701
+url=10.181.1.16
+type=Oracle
+dbname=prod
+Õë·Ä·þÎñÆ÷
